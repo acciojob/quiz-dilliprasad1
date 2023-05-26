@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+.quiz-container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+#result {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+#submit {
+    margin-top: 10px;
+}
+
+#result button {
+    margin-top: 20px;
+}
